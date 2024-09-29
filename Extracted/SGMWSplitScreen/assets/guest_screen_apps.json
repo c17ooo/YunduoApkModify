@@ -13,5 +13,20 @@
     "name": "电台",
     "packageName": "com.sgmw.lingos.sgmwradio",
     "launchActivity": "com.sgmw.lingos.sgmwradio.MainActivity"
+  },
+  {
+    "name": "酷我音乐",
+    "packageName": "cn.kuwo.kwmusiccar",
+    "launchActivity": "cn.kuwo.kwmusiccar.ui.WelcomeActivity"
+  },
+  {
+    "name": "百度地图",
+    "packageName": "com.baidu.naviauto",
+    "launchActivity": "com.baidu.naviauto.SlashActivity"
+  },
+  {
+    "name": "快启动Pro",
+    "packageName": "com.likpia.quickstartpro",
+    "launchActivity": "com.likpia.quickstart.ui.a.SplashActivity"
   }
 ]
